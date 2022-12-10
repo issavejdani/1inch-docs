@@ -2,11 +2,15 @@
     <img src="https://github.com/1inch/farming/blob/master/.github/1inch_github_w.svg#gh-light-mode-only">
     <img src="https://github.com/1inch/farming/blob/master/.github/1inch_github_b.svg#gh-dark-mode-only">
 </div>
+![Logo](https://github.com/1inch/farming/blob/master/.github/1inch_github_b.svg#gh-dark-mode-only)
 
 # Website
 
-This website is built using [Docusaurus 2](https://docusaurus.io/), a modern static website generator.
-This repo contains submodules that you need to pull `git submodule update --recursive`
+This website uses [Docusaurus 2](https://docusaurus.io/) to generate and manage documents. Docusaurus is a modern static website generator.
+This repository contains submodules. Run the followng command to use these submodules.
+ ```bash
+ git submodule update --recursive
+ ```
 
 ### Installation
 
